@@ -40,7 +40,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>pl.sda.banki.Main</mainClass>
+                            <mainClass>pl.sda.wyjatki.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
